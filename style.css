@@ -40,7 +40,3 @@ button{
     left: 45%;
     top: 375px;
 }
-button:hover{
-    
-    transition: transforme 0.5s;
-}
