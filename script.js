@@ -1,4 +1,4 @@
-// Obtenir le modal
+/* // Obtenir le modal
 var modal = document.getElementById("myModal");
 
 // Obtenir l'élément déclencheur pour ouvrir le modal
@@ -22,4 +22,4 @@ window.onclick = function(event) {
   if (event.target == modal) {
     modal.style.display ="none";
 }
-};
+}; */
